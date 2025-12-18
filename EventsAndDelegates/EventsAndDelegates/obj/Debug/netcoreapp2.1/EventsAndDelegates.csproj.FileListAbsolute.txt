@@ -1,0 +1,11 @@
+C:\GitHub\Coursework\Udemy\C# Advanced Topics - Prepare for Technical Interviews\EventsAndDelegates\EventsAndDelegates\EventsAndDelegates\bin\Debug\netcoreapp2.1\EventsAndDelegates.deps.json
+C:\GitHub\Coursework\Udemy\C# Advanced Topics - Prepare for Technical Interviews\EventsAndDelegates\EventsAndDelegates\EventsAndDelegates\bin\Debug\netcoreapp2.1\EventsAndDelegates.runtimeconfig.json
+C:\GitHub\Coursework\Udemy\C# Advanced Topics - Prepare for Technical Interviews\EventsAndDelegates\EventsAndDelegates\EventsAndDelegates\bin\Debug\netcoreapp2.1\EventsAndDelegates.runtimeconfig.dev.json
+C:\GitHub\Coursework\Udemy\C# Advanced Topics - Prepare for Technical Interviews\EventsAndDelegates\EventsAndDelegates\EventsAndDelegates\bin\Debug\netcoreapp2.1\EventsAndDelegates.dll
+C:\GitHub\Coursework\Udemy\C# Advanced Topics - Prepare for Technical Interviews\EventsAndDelegates\EventsAndDelegates\EventsAndDelegates\bin\Debug\netcoreapp2.1\EventsAndDelegates.pdb
+C:\GitHub\Coursework\Udemy\C# Advanced Topics - Prepare for Technical Interviews\EventsAndDelegates\EventsAndDelegates\EventsAndDelegates\obj\Debug\netcoreapp2.1\EventsAndDelegates.csprojAssemblyReference.cache
+C:\GitHub\Coursework\Udemy\C# Advanced Topics - Prepare for Technical Interviews\EventsAndDelegates\EventsAndDelegates\EventsAndDelegates\obj\Debug\netcoreapp2.1\EventsAndDelegates.csproj.CoreCompileInputs.cache
+C:\GitHub\Coursework\Udemy\C# Advanced Topics - Prepare for Technical Interviews\EventsAndDelegates\EventsAndDelegates\EventsAndDelegates\obj\Debug\netcoreapp2.1\EventsAndDelegates.AssemblyInfoInputs.cache
+C:\GitHub\Coursework\Udemy\C# Advanced Topics - Prepare for Technical Interviews\EventsAndDelegates\EventsAndDelegates\EventsAndDelegates\obj\Debug\netcoreapp2.1\EventsAndDelegates.AssemblyInfo.cs
+C:\GitHub\Coursework\Udemy\C# Advanced Topics - Prepare for Technical Interviews\EventsAndDelegates\EventsAndDelegates\EventsAndDelegates\obj\Debug\netcoreapp2.1\EventsAndDelegates.dll
+C:\GitHub\Coursework\Udemy\C# Advanced Topics - Prepare for Technical Interviews\EventsAndDelegates\EventsAndDelegates\EventsAndDelegates\obj\Debug\netcoreapp2.1\EventsAndDelegates.pdb

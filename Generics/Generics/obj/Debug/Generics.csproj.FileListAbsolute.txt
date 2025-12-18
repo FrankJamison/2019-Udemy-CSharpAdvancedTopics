@@ -1,0 +1,13 @@
+C:\Projects\Generics\Generics\bin\Debug\Generics.exe.config
+C:\Projects\Generics\Generics\obj\Debug\Generics.csprojResolveAssemblyReference.cache
+C:\Projects\Generics\Generics\bin\Debug\Generics.exe
+C:\Projects\Generics\Generics\bin\Debug\Generics.pdb
+C:\Projects\Generics\Generics\obj\Debug\Generics.exe
+C:\Projects\Generics\Generics\obj\Debug\Generics.pdb
+C:\GitHub\Coursework\Udemy\C# Advanced Topics - Prepare for Technical Interviews\Generics\Generics\bin\Debug\Generics.exe.config
+C:\GitHub\Coursework\Udemy\C# Advanced Topics - Prepare for Technical Interviews\Generics\Generics\bin\Debug\Generics.exe
+C:\GitHub\Coursework\Udemy\C# Advanced Topics - Prepare for Technical Interviews\Generics\Generics\bin\Debug\Generics.pdb
+C:\GitHub\Coursework\Udemy\C# Advanced Topics - Prepare for Technical Interviews\Generics\Generics\obj\Debug\Generics.csprojAssemblyReference.cache
+C:\GitHub\Coursework\Udemy\C# Advanced Topics - Prepare for Technical Interviews\Generics\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+C:\GitHub\Coursework\Udemy\C# Advanced Topics - Prepare for Technical Interviews\Generics\Generics\obj\Debug\Generics.exe
+C:\GitHub\Coursework\Udemy\C# Advanced Topics - Prepare for Technical Interviews\Generics\Generics\obj\Debug\Generics.pdb

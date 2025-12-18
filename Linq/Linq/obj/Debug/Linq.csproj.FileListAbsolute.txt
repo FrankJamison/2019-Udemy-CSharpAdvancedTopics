@@ -1,0 +1,13 @@
+C:\Projects\Linq\Linq\bin\Debug\Linq.exe.config
+C:\Projects\Linq\Linq\bin\Debug\Linq.exe
+C:\Projects\Linq\Linq\bin\Debug\Linq.pdb
+C:\Projects\Linq\Linq\obj\Debug\Linq.csprojResolveAssemblyReference.cache
+C:\Projects\Linq\Linq\obj\Debug\Linq.exe
+C:\Projects\Linq\Linq\obj\Debug\Linq.pdb
+C:\GitHub\Coursework\Udemy\C# Advanced Topics - Prepare for Technical Interviews\Linq\Linq\bin\Debug\Linq.exe.config
+C:\GitHub\Coursework\Udemy\C# Advanced Topics - Prepare for Technical Interviews\Linq\Linq\bin\Debug\Linq.exe
+C:\GitHub\Coursework\Udemy\C# Advanced Topics - Prepare for Technical Interviews\Linq\Linq\bin\Debug\Linq.pdb
+C:\GitHub\Coursework\Udemy\C# Advanced Topics - Prepare for Technical Interviews\Linq\Linq\obj\Debug\Linq.csprojAssemblyReference.cache
+C:\GitHub\Coursework\Udemy\C# Advanced Topics - Prepare for Technical Interviews\Linq\Linq\obj\Debug\Linq.csproj.CoreCompileInputs.cache
+C:\GitHub\Coursework\Udemy\C# Advanced Topics - Prepare for Technical Interviews\Linq\Linq\obj\Debug\Linq.exe
+C:\GitHub\Coursework\Udemy\C# Advanced Topics - Prepare for Technical Interviews\Linq\Linq\obj\Debug\Linq.pdb
