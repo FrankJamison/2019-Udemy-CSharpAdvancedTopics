@@ -4,3 +4,10 @@ C:\Projects\LambdaExpressions\LambdaExpressions\bin\Debug\LambdaExpressions.pdb
 C:\Projects\LambdaExpressions\LambdaExpressions\obj\Debug\LambdaExpressions.csprojResolveAssemblyReference.cache
 C:\Projects\LambdaExpressions\LambdaExpressions\obj\Debug\LambdaExpressions.exe
 C:\Projects\LambdaExpressions\LambdaExpressions\obj\Debug\LambdaExpressions.pdb
+d:\Programming\C#\2019-Udemy-CSharpAdvancedTopics\LambdaExpressions\LambdaExpressions\bin\Debug\LambdaExpressions.exe.config
+d:\Programming\C#\2019-Udemy-CSharpAdvancedTopics\LambdaExpressions\LambdaExpressions\bin\Debug\LambdaExpressions.exe
+d:\Programming\C#\2019-Udemy-CSharpAdvancedTopics\LambdaExpressions\LambdaExpressions\bin\Debug\LambdaExpressions.pdb
+d:\Programming\C#\2019-Udemy-CSharpAdvancedTopics\LambdaExpressions\LambdaExpressions\obj\Debug\LambdaExpressions.csproj.AssemblyReference.cache
+d:\Programming\C#\2019-Udemy-CSharpAdvancedTopics\LambdaExpressions\LambdaExpressions\obj\Debug\LambdaExpressions.csproj.CoreCompileInputs.cache
+d:\Programming\C#\2019-Udemy-CSharpAdvancedTopics\LambdaExpressions\LambdaExpressions\obj\Debug\LambdaExpressions.exe
+d:\Programming\C#\2019-Udemy-CSharpAdvancedTopics\LambdaExpressions\LambdaExpressions\obj\Debug\LambdaExpressions.pdb

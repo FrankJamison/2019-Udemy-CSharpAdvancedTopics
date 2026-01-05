@@ -10,3 +10,10 @@ C:\GitHub\Coursework\Udemy\C# Advanced Topics - Prepare for Technical Interviews
 C:\GitHub\Coursework\Udemy\C# Advanced Topics - Prepare for Technical Interviews\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.csproj.CoreCompileInputs.cache
 C:\GitHub\Coursework\Udemy\C# Advanced Topics - Prepare for Technical Interviews\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.exe
 C:\GitHub\Coursework\Udemy\C# Advanced Topics - Prepare for Technical Interviews\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.pdb
+d:\Programming\C#\2019-Udemy-CSharpAdvancedTopics\ExtensionMethods\ExtensionMethods\bin\Debug\ExtensionMethods.exe.config
+d:\Programming\C#\2019-Udemy-CSharpAdvancedTopics\ExtensionMethods\ExtensionMethods\bin\Debug\ExtensionMethods.exe
+d:\Programming\C#\2019-Udemy-CSharpAdvancedTopics\ExtensionMethods\ExtensionMethods\bin\Debug\ExtensionMethods.pdb
+d:\Programming\C#\2019-Udemy-CSharpAdvancedTopics\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.csproj.AssemblyReference.cache
+d:\Programming\C#\2019-Udemy-CSharpAdvancedTopics\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.csproj.CoreCompileInputs.cache
+d:\Programming\C#\2019-Udemy-CSharpAdvancedTopics\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.exe
+d:\Programming\C#\2019-Udemy-CSharpAdvancedTopics\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.pdb

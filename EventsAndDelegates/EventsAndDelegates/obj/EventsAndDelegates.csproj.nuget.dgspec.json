@@ -1,36 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GitHub\\Coursework\\Udemy\\C# Advanced Topics - Prepare for Technical Interviews\\EventsAndDelegates\\EventsAndDelegates\\EventsAndDelegates\\EventsAndDelegates.csproj": {}
+    "D:\\Programming\\C#\\2019-Udemy-CSharpAdvancedTopics\\EventsAndDelegates\\EventsAndDelegates\\EventsAndDelegates.csproj": {}
   },
   "projects": {
-    "C:\\GitHub\\Coursework\\Udemy\\C# Advanced Topics - Prepare for Technical Interviews\\EventsAndDelegates\\EventsAndDelegates\\EventsAndDelegates\\EventsAndDelegates.csproj": {
+    "D:\\Programming\\C#\\2019-Udemy-CSharpAdvancedTopics\\EventsAndDelegates\\EventsAndDelegates\\EventsAndDelegates.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GitHub\\Coursework\\Udemy\\C# Advanced Topics - Prepare for Technical Interviews\\EventsAndDelegates\\EventsAndDelegates\\EventsAndDelegates\\EventsAndDelegates.csproj",
+        "projectUniqueName": "D:\\Programming\\C#\\2019-Udemy-CSharpAdvancedTopics\\EventsAndDelegates\\EventsAndDelegates\\EventsAndDelegates.csproj",
         "projectName": "EventsAndDelegates",
-        "projectPath": "C:\\GitHub\\Coursework\\Udemy\\C# Advanced Topics - Prepare for Technical Interviews\\EventsAndDelegates\\EventsAndDelegates\\EventsAndDelegates\\EventsAndDelegates.csproj",
+        "projectPath": "D:\\Programming\\C#\\2019-Udemy-CSharpAdvancedTopics\\EventsAndDelegates\\EventsAndDelegates\\EventsAndDelegates.csproj",
         "packagesPath": "C:\\Users\\frank\\.nuget\\packages\\",
-        "outputPath": "C:\\GitHub\\Coursework\\Udemy\\C# Advanced Topics - Prepare for Technical Interviews\\EventsAndDelegates\\EventsAndDelegates\\EventsAndDelegates\\obj\\",
+        "outputPath": "D:\\Programming\\C#\\2019-Udemy-CSharpAdvancedTopics\\EventsAndDelegates\\EventsAndDelegates\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
           "C:\\Users\\frank\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.1"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.1": {
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -38,22 +34,34 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
-        "netcoreapp2.1": {
-          "dependencies": {
-            "Microsoft.NETCore.App": {
-              "target": "Package",
-              "version": "[2.1.0, )",
-              "autoReferenced": true
-            }
-          },
+        "net8.0": {
+          "targetAlias": "net8.0",
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

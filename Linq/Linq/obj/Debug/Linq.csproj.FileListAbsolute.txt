@@ -11,3 +11,10 @@ C:\GitHub\Coursework\Udemy\C# Advanced Topics - Prepare for Technical Interviews
 C:\GitHub\Coursework\Udemy\C# Advanced Topics - Prepare for Technical Interviews\Linq\Linq\obj\Debug\Linq.csproj.CoreCompileInputs.cache
 C:\GitHub\Coursework\Udemy\C# Advanced Topics - Prepare for Technical Interviews\Linq\Linq\obj\Debug\Linq.exe
 C:\GitHub\Coursework\Udemy\C# Advanced Topics - Prepare for Technical Interviews\Linq\Linq\obj\Debug\Linq.pdb
+d:\Programming\C#\2019-Udemy-CSharpAdvancedTopics\Linq\Linq\bin\Debug\Linq.exe.config
+d:\Programming\C#\2019-Udemy-CSharpAdvancedTopics\Linq\Linq\bin\Debug\Linq.exe
+d:\Programming\C#\2019-Udemy-CSharpAdvancedTopics\Linq\Linq\bin\Debug\Linq.pdb
+d:\Programming\C#\2019-Udemy-CSharpAdvancedTopics\Linq\Linq\obj\Debug\Linq.csproj.AssemblyReference.cache
+d:\Programming\C#\2019-Udemy-CSharpAdvancedTopics\Linq\Linq\obj\Debug\Linq.csproj.CoreCompileInputs.cache
+d:\Programming\C#\2019-Udemy-CSharpAdvancedTopics\Linq\Linq\obj\Debug\Linq.exe
+d:\Programming\C#\2019-Udemy-CSharpAdvancedTopics\Linq\Linq\obj\Debug\Linq.pdb

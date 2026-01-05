@@ -11,3 +11,10 @@ C:\GitHub\Coursework\Udemy\C# Advanced Topics - Prepare for Technical Interviews
 C:\GitHub\Coursework\Udemy\C# Advanced Topics - Prepare for Technical Interviews\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.CoreCompileInputs.cache
 C:\GitHub\Coursework\Udemy\C# Advanced Topics - Prepare for Technical Interviews\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.exe
 C:\GitHub\Coursework\Udemy\C# Advanced Topics - Prepare for Technical Interviews\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.pdb
+d:\Programming\C#\2019-Udemy-CSharpAdvancedTopics\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+d:\Programming\C#\2019-Udemy-CSharpAdvancedTopics\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+d:\Programming\C#\2019-Udemy-CSharpAdvancedTopics\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+d:\Programming\C#\2019-Udemy-CSharpAdvancedTopics\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.AssemblyReference.cache
+d:\Programming\C#\2019-Udemy-CSharpAdvancedTopics\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.CoreCompileInputs.cache
+d:\Programming\C#\2019-Udemy-CSharpAdvancedTopics\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+d:\Programming\C#\2019-Udemy-CSharpAdvancedTopics\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.pdb

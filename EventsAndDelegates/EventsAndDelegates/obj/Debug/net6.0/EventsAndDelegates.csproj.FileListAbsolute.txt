@@ -1,0 +1,15 @@
+d:\Programming\C#\2019-Udemy-CSharpAdvancedTopics\EventsAndDelegates\EventsAndDelegates\bin\Debug\net6.0\EventsAndDelegates.exe
+d:\Programming\C#\2019-Udemy-CSharpAdvancedTopics\EventsAndDelegates\EventsAndDelegates\bin\Debug\net6.0\EventsAndDelegates.deps.json
+d:\Programming\C#\2019-Udemy-CSharpAdvancedTopics\EventsAndDelegates\EventsAndDelegates\bin\Debug\net6.0\EventsAndDelegates.runtimeconfig.json
+d:\Programming\C#\2019-Udemy-CSharpAdvancedTopics\EventsAndDelegates\EventsAndDelegates\bin\Debug\net6.0\EventsAndDelegates.dll
+d:\Programming\C#\2019-Udemy-CSharpAdvancedTopics\EventsAndDelegates\EventsAndDelegates\bin\Debug\net6.0\EventsAndDelegates.pdb
+d:\Programming\C#\2019-Udemy-CSharpAdvancedTopics\EventsAndDelegates\EventsAndDelegates\obj\Debug\net6.0\EventsAndDelegates.GeneratedMSBuildEditorConfig.editorconfig
+d:\Programming\C#\2019-Udemy-CSharpAdvancedTopics\EventsAndDelegates\EventsAndDelegates\obj\Debug\net6.0\EventsAndDelegates.AssemblyInfoInputs.cache
+d:\Programming\C#\2019-Udemy-CSharpAdvancedTopics\EventsAndDelegates\EventsAndDelegates\obj\Debug\net6.0\EventsAndDelegates.AssemblyInfo.cs
+d:\Programming\C#\2019-Udemy-CSharpAdvancedTopics\EventsAndDelegates\EventsAndDelegates\obj\Debug\net6.0\EventsAndDelegates.csproj.CoreCompileInputs.cache
+d:\Programming\C#\2019-Udemy-CSharpAdvancedTopics\EventsAndDelegates\EventsAndDelegates\obj\Debug\net6.0\EventsAndDelegates.sourcelink.json
+d:\Programming\C#\2019-Udemy-CSharpAdvancedTopics\EventsAndDelegates\EventsAndDelegates\obj\Debug\net6.0\EventsAndDelegates.dll
+d:\Programming\C#\2019-Udemy-CSharpAdvancedTopics\EventsAndDelegates\EventsAndDelegates\obj\Debug\net6.0\refint\EventsAndDelegates.dll
+d:\Programming\C#\2019-Udemy-CSharpAdvancedTopics\EventsAndDelegates\EventsAndDelegates\obj\Debug\net6.0\EventsAndDelegates.pdb
+d:\Programming\C#\2019-Udemy-CSharpAdvancedTopics\EventsAndDelegates\EventsAndDelegates\obj\Debug\net6.0\EventsAndDelegates.genruntimeconfig.cache
+d:\Programming\C#\2019-Udemy-CSharpAdvancedTopics\EventsAndDelegates\EventsAndDelegates\obj\Debug\net6.0\ref\EventsAndDelegates.dll

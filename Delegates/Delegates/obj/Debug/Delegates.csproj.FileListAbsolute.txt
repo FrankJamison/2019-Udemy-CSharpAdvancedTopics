@@ -11,3 +11,10 @@ C:\GitHub\Coursework\Udemy\C# Advanced Topics - Prepare for Technical Interviews
 C:\GitHub\Coursework\Udemy\C# Advanced Topics - Prepare for Technical Interviews\Delegates\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
 C:\GitHub\Coursework\Udemy\C# Advanced Topics - Prepare for Technical Interviews\Delegates\Delegates\obj\Debug\Delegates.exe
 C:\GitHub\Coursework\Udemy\C# Advanced Topics - Prepare for Technical Interviews\Delegates\Delegates\obj\Debug\Delegates.pdb
+d:\Programming\C#\2019-Udemy-CSharpAdvancedTopics\Delegates\Delegates\obj\Debug\Delegates.exe
+d:\Programming\C#\2019-Udemy-CSharpAdvancedTopics\Delegates\Delegates\obj\Debug\Delegates.pdb
+d:\Programming\C#\2019-Udemy-CSharpAdvancedTopics\Delegates\Delegates\bin\Debug\Delegates.exe.config
+d:\Programming\C#\2019-Udemy-CSharpAdvancedTopics\Delegates\Delegates\bin\Debug\Delegates.exe
+d:\Programming\C#\2019-Udemy-CSharpAdvancedTopics\Delegates\Delegates\bin\Debug\Delegates.pdb
+d:\Programming\C#\2019-Udemy-CSharpAdvancedTopics\Delegates\Delegates\obj\Debug\Delegates.csproj.AssemblyReference.cache
+d:\Programming\C#\2019-Udemy-CSharpAdvancedTopics\Delegates\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
